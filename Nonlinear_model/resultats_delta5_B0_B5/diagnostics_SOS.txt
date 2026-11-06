@@ -1,0 +1,43 @@
+NONLINEAR ROBOT / WEAK AG / DELTA = 5
+Statut de resolution : OPTIMAL; primal=FEASIBLE_POINT
+beta=0.25 et zeta=0.21 : CHOIX D'ESSAI, non fixes dans le manuscrit
+rho=x-w, r=(rho/3,v/0.85,w/21)
+B_i(r)=m(r)'Q_i*m(r)-1, i=0,...,5
+Invariance B0 : systeme complet, |w+ - sigma*w| <= zeta
+Invariance B5 et transitions intermediaires : |w+ - sigma*w| <= D0
+Objectif trace (pas maximisation exacte du volume) = 8.329221842456267
+Verifier residus SOS et tolérances pour toute revendication de certification.
+min eigenvalue Q_B0 = 6.804985405271e-09 | symerr = 0.000e+00
+min eigenvalue Q_B1 = 1.167163777463e-08 | symerr = 0.000e+00
+min eigenvalue Q_B2 = 1.240456662975e-08 | symerr = 0.000e+00
+min eigenvalue Q_B3 = 1.239707003235e-08 | symerr = 0.000e+00
+min eigenvalue Q_B4 = 1.213277908507e-08 | symerr = 0.000e+00
+min eigenvalue Q_B5 = 9.995928750131e-09 | symerr = 0.000e+00
+min eigenvalue L1 B0_full = 3.332879609668e-04
+min eigenvalue L2 B0_full = 3.332883577752e-04
+min eigenvalue L3 B0_full = 1.131046437158e-03
+min eigenvalue L4 B0_full = 7.382342390981e-04
+min eigenvalue L1 B0_to_B1 = 3.340414031880e-08
+min eigenvalue L2 B0_to_B1 = 2.938982946401e-08
+min eigenvalue L3 B0_to_B1 = 7.121239207692e-05
+min eigenvalue L4 B0_to_B1 = 2.183124065872e-08
+min eigenvalue L1 B1_to_B2 = 3.022762616587e-08
+min eigenvalue L2 B1_to_B2 = 2.621537305762e-08
+min eigenvalue L3 B1_to_B2 = 6.873136821799e-05
+min eigenvalue L4 B1_to_B2 = 1.022286323030e-08
+min eigenvalue L1 B2_to_B3 = 1.755626333968e-08
+min eigenvalue L2 B2_to_B3 = 1.526676136994e-08
+min eigenvalue L3 B2_to_B3 = 4.471045319204e-05
+min eigenvalue L4 B2_to_B3 = 5.453869498340e-09
+min eigenvalue L1 B3_to_B4 = 1.025945077064e-08
+min eigenvalue L2 B3_to_B4 = 2.448721644964e-08
+min eigenvalue L3 B3_to_B4 = 2.259547230087e-05
+min eigenvalue L4 B3_to_B4 = 3.857106366363e-09
+min eigenvalue L1 B4_to_B5 = 9.214552188743e-09
+min eigenvalue L2 B4_to_B5 = 1.067811696770e-08
+min eigenvalue L3 B4_to_B5 = 6.141069238486e-06
+min eigenvalue L4 B4_to_B5 = 2.777170985134e-09
+min eigenvalue L1 B5_restricted = 7.079770493753e-07
+min eigenvalue L2 B5_restricted = 9.822644459869e-07
+min eigenvalue L3 B5_restricted = 2.696604875998e-04
+min eigenvalue L4 B5_restricted = 2.212997181181e-09

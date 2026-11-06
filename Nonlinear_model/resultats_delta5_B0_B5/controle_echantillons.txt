@@ -1,0 +1,10 @@
+Controle aleatoire indicatif ; NE PROUVE PAS les SOS ni l'invariance globale.
+Points par ensemble : 350, echantillons de u par point : 8
+F_S : B0 -> B0               max B_destination =  -4.418408e-02
+R : B0 -> B1                 max B_destination =  -4.870233e-02
+R : B1 -> B2                 max B_destination =  -5.049402e-02
+R : B2 -> B3                 max B_destination =  -2.404758e-02
+R : B3 -> B4                 max B_destination =  -3.073935e-02
+R : B4 -> B5                 max B_destination =  -3.483959e-02
+R : B5 -> B5                 max B_destination =  -7.715790e-02
+inclusion B5 -> B0           max B_destination =  -7.322878e-02
